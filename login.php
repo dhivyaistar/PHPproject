@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>iBerry LoginForm</title>
 
+<!-- Commented -->
 <!-- Styling for the form -->
 <style>
 form {
